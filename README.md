@@ -9,7 +9,8 @@ of robots and two scenarios to validate Algorithms.
 
 ## Usage
 
-###Getting started
+### Getting started
+
 Download the source code folder and establish new projects in Pycharm (recommended). Make sure all associated files are properly linked to the project.
 
 Requirements:
