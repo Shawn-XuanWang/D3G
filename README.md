@@ -23,4 +23,5 @@ casadi 3.5.5.post2 tested
 
 matplotlib 3.5.3 tested
 
-### The environment and scenarios
+### The scenarios
+The package contains three folers named as "". Each foler is corresponding to one specific sceario. In each folder, `generate_demo.py` is to generate a demonstration, and `formation_learning.py` is for learning from the demonstration generated before.
