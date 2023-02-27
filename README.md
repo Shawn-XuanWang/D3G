@@ -15,8 +15,11 @@ Download the source code folder and establish new projects in Pycharm (recommend
 Requirements:
 
 Python 3.10 tested
+
 numpy 1.23.2 tested
+
 casadi 3.5.5.post2 tested
+
 matplotlib 3.5.3 tested
 
 ### The environment and scenarios
