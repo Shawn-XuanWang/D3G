@@ -24,4 +24,4 @@ casadi 3.5.5.post2 tested
 matplotlib 3.5.3 tested
 
 ### The scenarios
-The package contains three folers named as "". Each foler is corresponding to one specific sceario. In each folder, `generate_demo.py` is to generate a demonstration, and `formation_learning.py` is for learning from the demonstration generated before.
+The package contains three folers named as "". Each foler is corresponding to one specific sceario. In each folder, `generate_demo.py` is to generate a demonstration, and `formation_learning.py` is for learning from the demonstration. For each scenario, first run `generate_demo.py` to generate a dataset of demonstration which will be saved in the 'data' foler. Then run `formation_learning.py` to learn the demonstration.
