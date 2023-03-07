@@ -5,7 +5,8 @@ Distributed Differentiable Dynamic Game (D3G) is a framework, which enables lear
 of robots and two scenarios to validate Algorithms.
 1. XEnv.py uses a planar quadrotor model as robot dynamics, and define the cost function of different scenarios mentioned above.
 2. GEnv.py uses a unicyle model as robot dynamics, and define the cost function of different scenarios mentioned above.
-3. GPDP.py implements the distributed game solver and the distributed differentiable Pontryagin’s Minimum Principle (PMP) solver algorithms.
+3. GPDP.py implements the distributed game solver and the distributed differentiable Pontryagin’s Minimum Principle (PMP) solver algorithms for unicyle model.
+4. GPDP.py implements the distributed game solver and the distributed differentiable Pontryagin’s Minimum Principle (PMP) solver algorithms for quadrotor planner.
 
 ## Usage
 
